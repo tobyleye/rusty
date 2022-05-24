@@ -1,2 +1,2 @@
 # Rusty
-This repo would contain my rusty rust codes
+This repo would contain some of my rusty rust code
